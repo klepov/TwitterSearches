@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TwitterSearches</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="queryPromt">введи запрос твиттра</string>
+    <string name="tagPromt">Тегуй запрос</string>
+    <string name="saveDescription">Для сохранения</string>
+    <string name="taggedSearches">Меченный поиск</string>
+    <string name="missigMessage">пропущено сообщение</string>
+    <string name="OK">ok</string>
+    <string name="searchURL">https://mobile.twitter.com/search/</string>
+    <string name="shateEditDeleteTitle">расшарить, удалить или редактировать поисковый тег</string>
+    <string name="shareSubject">поиск в твиттер, который вам интересен</string>
+    <string name="shareMessage">результаты поиска</string>
+    <string name="shareSearch">расщарить?</string>
+    <string name="delete">удалить?</string>
+    <string name="cancel">отмена</string>
+    <string name="confirmMessage">точно?</string>
+    <string name="Error_Query">ошибка, запрос уже есть</string>
+</resources>
